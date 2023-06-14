@@ -56,7 +56,7 @@ blockquote {
 	font-size:1.7em;
 	margin:35px 150px 35px 0;
 	color:#787878;
-	background:url(https://davidwsullivan.github.io/images/blockquote.gif) top left no-repeat;
+	background:url(../images/blockquote.gif) top left no-repeat;
 	padding:15px 0 0 0;
 	font-family:Georgia, "Times New Roman", Times, serif;
 }
@@ -66,7 +66,7 @@ blockquote p {
 
 #sidebar {
 	width:263px;
-	background:url(https://davidwsullivan.github.io/images/sidebar.jpg) top left no-repeat;
+	background:url(../images/sidebar.jpg) top left no-repeat;
 	float:left;
 	padding:20px 20px 50px 20px;
 }
@@ -123,7 +123,7 @@ ol li {
 }
 #content {
 	margin:0 10% 0 300px;
-	background:url(https://davidwsullivan.github.io/images/content.jpg) top left no-repeat;
+	background:url(../images/content.jpg) top left no-repeat;
 	padding:20px;
 }
 #content ul {
@@ -133,7 +133,7 @@ ol li {
 #content ul li {
 	margin:10px 0;
 	padding:0 0 0 15px;
-	background:url(https://davidwsullivan.github.io/images/bp.gif) left no-repeat;
+	background:url(../images/bp.gif) left no-repeat;
 }
 #content img {
 	padding:1px;
